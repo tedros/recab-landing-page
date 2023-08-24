@@ -36,41 +36,41 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-- title                                 : Personalized News Feed
-  description                           : Tailored articles generated according to your language proficiency and interests.
-  fontawesome_icon_name                 : newspaper
+- title                                   : Personalized News Feed
+  description                             : Tailored articles generated according to your language proficiency and interests.
+  fontawesome_icon_name                   : newspaper
 
-- title                                 : Interactive Vocabulary Learning
-  description                           : Tap unfamiliar words for instant definitions. Automatically adds them to your target wordlists.
-  fontawesome_icon_name                 : book-reader
+- title                                   : Interactive Vocabulary Learning
+  description                             : Tap unfamiliar words for instant definitions. Automatically adds them to your target wordlists.
+  fontawesome_icon_name                   : book-reader
 
-- title                                 : Sentence Regeneration
-  description                           : Struggling with a sentence? Click "Regen" to rewrite it with simpler words while maintaining its original meaning.
-  fontawesome_icon_name                 : sync
+- title                                   : Sentence Regeneration
+  description                             : Struggling with a sentence? Click "Regen" to rewrite it with simpler words while maintaining its original meaning.
+  fontawesome_icon_name                   : sync
 
-- title                                 : In-Depth Sentence Explanation
-  description                           : Swipe up to reveal a comprehensive breakdown of complex sentences, written at your level of proficiency.
-  fontawesome_icon_name                 : info-circle
+- title                                   : In-Depth Sentence Explanation
+  description                             : Swipe up to reveal a comprehensive breakdown of complex sentences, written at your level of proficiency.
+  fontawesome_icon_name                   : info-circle
 
-- title                                 : Mixed Language Input
-  description                           : Chat in a mixture of your native and target languages to improve your language skills confidently.
-  fontawesome_icon_name                 : language
+- title                                   : Mixed Language Input
+  description                             : Chat in a mixture of your native and target languages to improve your language skills confidently.
+  fontawesome_icon_name                   : language
 
-- title                                 : Intelligent Flashcards
-  description                           : Anki-style flashcards are automatically generated from your unknown words list, complete with sample sentences.
-  fontawesome_icon_name                 : layer-group
+- title                                   : Intelligent Flashcards
+  description                             : Anki-style flashcards are automatically generated from your unknown words list, complete with sample sentences.
+  fontawesome_icon_name                   : layer-group
 
-- title                                 : Article-Based Chatbot
-  description                           : Post-reading, interact with a chatbot trained specifically on the article's content to deepen your understanding.
-  fontawesome_icon_name                 : comments
+- title                                   : Article-Based Chatbot
+  description                             : Post-reading, interact with a chatbot trained specifically on the article's content to deepen your understanding.
+  fontawesome_icon_name                   : comments
 
-- title                                 : Multi-Modal Interaction
-  description                           : Engage with the chatbot through text or voice, enhancing both your written and spoken language skills.
-  fontawesome_icon_name                 : microphone-alt
+- title                                   : Multi-Modal Interaction
+  description                             : Engage with the chatbot through text or voice, enhancing both your written and spoken language skills.
+  fontawesome_icon_name                   : microphone-alt
 
-- title                                 : Grammar and Translation Help
-  description                           : Real-time grammar corrections and translations for sentences written in mixed languages.
-  fontawesome_icon_name                 : magic
+- title                                   : Grammar and Translation Help
+  description                             : Real-time grammar corrections and translations for sentences written in mixed languages.
+  fontawesome_icon_name                   : magic
 
 
   - title                                 : # New Feature Title
