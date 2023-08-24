@@ -72,10 +72,9 @@ features                                  :
   description                             : Real-time grammar corrections and translations for sentences written in mixed languages.
   fontawesome_icon_name                   : magic
 
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+- title                                   : # New Feature Title
+  description                             : # New Feature Description
+  fontawesome_icon_name                   : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
