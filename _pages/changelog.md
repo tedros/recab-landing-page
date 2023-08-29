@@ -4,62 +4,64 @@ title: What's New
 include_in_header: true
 ---
 
+
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+
+Stay updated with the latest improvements, enhancements, and bug fixes in our app. Scroll down for a detailed look at each version update. We appreciate your feedback and continually strive to make Recab better for you.
 
 <br>
+
+<!-- ### `Initial Release`
+
+# **Version 1.0**  
+We're excited to introduce the initial release of Recab! Dive into an innovative way to read news tailored to your language learning needs. From real-time word translation to chat interactions with articles, Recab makes language learning effective and fun.
+
+<br> -->
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+# **Version 0.2.0**
+We're thrilled to present the latest significant update to Recab. With this version, we've enhanced usability and added new features that make reading in your target language more engaging and interactive.
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+#### What's New  
+- Enhanced sentence regeneration using advanced LLMs.
 
-<br>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+#### Bug Fixes  
+- Resolved occasional crashes during sentence regeneration.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
 
 <br>
 
-________
-<br>
+### **Version 0.1.6**  
+Get ready to experience an even smoother and more immersive language learning journey. From improved word lists to refined user interface, this update is packed with improvements.
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+#### What's New  
+- Flashcard functionality for unknown words.
+- Better handling of mixed-language inputs.
 
 <br>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+----------
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## **Version 0.1.5**  
+Updates for an improved user experience.
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+#### What's New  
+- Enhanced wordlist management.
+- Streamlined article generation process.
+
+<br>
+
+## **Version 0.1.4**  
+Our first patch includes minor bug fixes and improvements to optimize your learning experience.
+
+#### What's New  
+- Fixed sign-up issues.
+- Improved mixed-language input handling.
+
+#### Bug Fixes  
+- Enhanced user sign-up process.
+- Fixed minor bugs affecting article generations.
 
 <br>
